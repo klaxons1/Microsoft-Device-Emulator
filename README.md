@@ -1,3 +1,4 @@
+It's reupload I made in 2021 from official Microsoft site. I did nothing but put zlib and libpng libraries. 
 # What is the Device Emulator?
 The Device Emulator is a software simulation of a CPU and motherboard, that runs the Windows CE and Windows Mobile operating systems. The emulator is a single Windows .EXE file that contains: 
 A CPU emulator that executes the ARM instruction set by JIT-compiling to x86
